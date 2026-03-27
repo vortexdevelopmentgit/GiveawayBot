@@ -14,6 +14,9 @@
   <a href="https://discord.py.dev/">
     <img src="https://img.shields.io/badge/discord.py-v2.0+-blue.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord.py">
   </a>
+  <a href="https://github.com/vortexdevelopmentgit/GiveawayBot/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/vortexdevelopmentgit/GiveawayBot?style=for-the-badge&color=5865F2" alt="License">
+  </a>
 </p>
 
 ---
