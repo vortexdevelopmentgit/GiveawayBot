@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/vortexdevelopmentgit/GiveawayBot">
-    <img src="https://img.shields.io/github/stars/vortexdevelopmentgit/GiveawayBot?style=for-the-badge&color=5865F2" alt="Stars">
+    <img src="https://img.shields.io/github/stars/vortexdevelopmentgit/GiveawayBot?style=for-the-badge&color=5865F2&cacheSeconds=5" alt="Stars">
   </a>
   <a href="https://github.com/vortexdevelopmentgit/GiveawayBot/network/members">
-    <img src="https://img.shields.io/github/forks/vortexdevelopmentgit/GiveawayBot?style=for-the-badge&color=5865F2" alt="Forks">
+    <img src="https://img.shields.io/github/forks/vortexdevelopmentgit/GiveawayBot?style=for-the-badge&color=5865F2&cacheSeconds=5" alt="Forks">
   </a>
   <a href="https://discord.py.dev/">
     <img src="https://img.shields.io/badge/discord.py-v2.0+-blue.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord.py">
